@@ -1,0 +1,8 @@
+.category-chart-container {
+  background-image: linear-gradient(to right, rgb(215, 238, 103), rgba(141, 186, 78, 0.033));
+  font-family: bree serif, "Times New Roman", Times, serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
